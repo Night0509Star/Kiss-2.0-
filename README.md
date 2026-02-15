@@ -5,7 +5,7 @@ Markdown# KISS – The Ultimate Fan Page
 
 A static fan site dedicated to the legendary rock band KISS. The page presents the band's history, members, selected songs, interviews, booking information, images, and sources—all wrapped in a theatrical and thematic design inspired by KISS's iconic makeup and stage aesthetic.
 
-**Live Site:** [https://night0509star.github.io/kiss-fan-page/](https://night0509star.github.io/kiss-fan-page/)  
+**Live Site:** https://raw.githack.com/Night0509Star/[Kiss-2.0-/refs/heads/main/Kiss.html](https://raw.githack.com/Night0509Star/Kiss-2.0-/refs/heads/main/Kiss.html)
 *(Update the link once your site is deployed on GitHub Pages)*
 
 ## Table of Contents
@@ -106,5 +106,6 @@ For local development:
 ### Code
 - Corner CSS makeup circles: Custom implementation using clip-path, pseudo-elements, and polygons.
 - Smooth scrolling: Native CSS property `scroll-behavior: smooth`.
+
 
 Thanks to the KISS Army worldwide – **You Wanted the Best, You Got the Best!** 🤘
